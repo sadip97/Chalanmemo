@@ -1,0 +1,1 @@
+Smart Arat Chalan" is a modern and user-friendly web application designed for wholesalers and commission agents to create, save, and print sales challans with ease. It allows you to store company details, customer information, product lists, and expenses, ensuring accurate accounting and professional printable invoices.
